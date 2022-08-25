@@ -3,3 +3,16 @@
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
     
 }
+
+#two {
+    color: rgb(50,50,250);
+    font-size: 32px;
+
+}
+
+#four {
+    background-color: rgb(91, 170, 0);
+    font-size: 24px;
+    font-weight: bold;
+
+}
